@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[535],{5641:a=>{a.exports=JSON.parse('{"title":"Semua Postingan","items":[{"title":"Selamat Datang!","permalink":"/selamat-datang"}]}')}}]);

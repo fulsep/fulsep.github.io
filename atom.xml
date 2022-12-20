@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fulsep.github.io/</id>
+    <title>Irul Blog</title>
+    <updated>2022-12-20T10:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fulsep.github.io/"/>
+    <subtitle>Irul Blog</subtitle>
+    <icon>https://fulsep.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Selamat Datang!]]></title>
+        <id>selamat-datang</id>
+        <link href="https://fulsep.github.io/selamat-datang"/>
+        <updated>2022-12-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Halo! Selamat datang di blog ini, semoga semua yang ditulis di sini dapat bermanfaat ya!]]></summary>
+        <content type="html"><![CDATA[<p>Halo! Selamat datang di blog ini, semoga semua yang ditulis di sini dapat bermanfaat ya!</p>]]></content>
+        <author>
+            <name>Irul</name>
+            <uri>https://github.com/fulsep</uri>
+        </author>
+        <category label="General" term="General"/>
+    </entry>
+</feed>

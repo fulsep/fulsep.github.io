@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Irul Blog</title>
+        <link>https://fulsep.github.io/</link>
+        <description>Irul Blog</description>
+        <lastBuildDate>Tue, 20 Dec 2022 10:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>id</language>
+        <item>
+            <title><![CDATA[Selamat Datang!]]></title>
+            <link>https://fulsep.github.io/selamat-datang</link>
+            <guid>selamat-datang</guid>
+            <pubDate>Tue, 20 Dec 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Halo! Selamat datang di blog ini, semoga semua yang ditulis di sini dapat bermanfaat ya!]]></description>
+            <content:encoded><![CDATA[<p>Halo! Selamat datang di blog ini, semoga semua yang ditulis di sini dapat bermanfaat ya!</p>]]></content:encoded>
+            <category>General</category>
+        </item>
+    </channel>
+</rss>
