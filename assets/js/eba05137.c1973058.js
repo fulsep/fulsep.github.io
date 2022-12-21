@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[0],{2554:a=>{a.exports=JSON.parse('{"label":"JavaScript for Frontend","permalink":"/tags/java-script-for-frontend","allTagsPath":"/tags","count":1}')}}]);
