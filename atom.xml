@@ -17,8 +17,9 @@
             <name>Irul</name>
             <uri>https://github.com/fulsep</uri>
         </author>
-        <category label="JavaScript" term="JavaScript"/>
-        <category label="Beginner JavaScript" term="Beginner JavaScript"/>
+        <category label="Frontend Development" term="Frontend Development"/>
+        <category label="Beginner Frontend" term="Beginner Frontend"/>
+        <category label="ReactJS" term="ReactJS"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arrow Function: Hal yang harus kamu tahu!]]></title>
