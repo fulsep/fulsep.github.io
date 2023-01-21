@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[533],{9404:e=>{e.exports=JSON.parse('{"label":"Frontend Development","permalink":"/tags/frontend-development","allTagsPath":"/tags","count":1}')}}]);
