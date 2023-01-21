@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[9718],{3959:a=>{a.exports=JSON.parse('{"label":"Beginner JavaScript","permalink":"/tags/beginner-java-script","allTagsPath":"/tags","count":2}')}}]);
