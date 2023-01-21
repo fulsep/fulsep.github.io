@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[7439],{1305:s=>{s.exports=JSON.parse('{"permalink":"/tags/java-script-for-backend","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
